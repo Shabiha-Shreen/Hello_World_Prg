@@ -1,9 +1,6 @@
 # Hello_World_Prg
-First C++ Hello World program to check in 
+C++ Hello World program to check in the branch2 
 
-// Simple C++ program to display "Hello World" 
-  
-// Header file for input output functions 
 #include<iostream>  
   
 using namespace std; 
@@ -13,7 +10,7 @@ using namespace std;
 int main() 
 { 
     // prints hello world 
-    cout<<"Hello World----of my branch1"; 
+    cout<<"Hello GitHUb----of my branch2 "; 
       
     return 0; 
 } 
